@@ -81,21 +81,11 @@ Projetos responsivos utilizando HTML, CSS, JavaScript e Bootstrap.
 
 ## 📊 Estatísticas
 
-<p>
-<img
-  align="left"
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=gabryel-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryel-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img
-align="left"
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-rodrigues&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-rodrigues&theme=tokyonight&layout=compact&langs_count=8"/>
 </p>
-
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## 📫 Contato
