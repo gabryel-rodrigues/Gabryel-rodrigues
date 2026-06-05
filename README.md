@@ -1,108 +1,84 @@
 # 👨🏽‍💻 Gabryel Rodrigues
 
-**`Desenvolvedor Full Stack | Estudante de Engenharia de Computação`**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-rodrigues-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabryelrodrigues230@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabryel-rodrigues)
 
-Olá! Me chamo **Gabryel Rodrigues Saraiva Pierre** e sou estudante de **Engenharia de Computação**.
+## 🚀 Sobre Mim
+🎓 Estudante do 5º período de **Engenharia de Computação**
+💻 Apaixonado por desenvolvimento de software, infraestrutura de redes e automação.
+🎯 **Objetivo:** Atuar como desenvolvedor e construir soluções que gerem impacto real através da tecnologia.
 
-Tenho experiência no desenvolvimento de aplicações web, bancos de dados, redes de computadores e automação de processos. Atualmente, foco meus estudos em desenvolvimento Full Stack, arquitetura de software e soluções que conectam sistemas web, APIs e bancos de dados.
-
-Estou sempre buscando novos desafios para aprimorar minhas habilidades técnicas e contribuir com projetos que gerem impacto real através da tecnologia.
-
-<p align="left">
-    <a href="https://github.com/gabryel-rodrigues">
-        <img 
-            alt="GitHub" 
-            title="Meu GitHub"
-            src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/gabryel-rodrigues-">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"
-        />
-    </a>
-</p>
+🌱 **Atualmente aprimorando conhecimentos em:**
+- Desenvolvimento Full Stack e Arquitetura de Software
+- APIs REST e Automação via Webhooks
+- Banco de Dados
+- Redes de Computadores
+- Experiência do Usuário (UX/UI) e Acessibilidade
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-<p align="left">
+**Front-end**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+**Back-end**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-</p>
-
----
-
-## 📌 Principais Competências
-
-* Desenvolvimento Web Front-end e Back-end
-* Integração de APIs
-* Banco de Dados MySQL
-* Redes de Computadores
-* Versionamento com Git e GitHub
-* Desenvolvimento de Sistemas
-* Estruturação de Projetos de Software
-* Automação de Processos
+**Ferramentas & Infraestrutura**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 💼 Projetos
+## 📌 Projetos em Destaque
+
+### 🤖 Chatbot para WhatsApp (ONG Batuíra)
+Sistema automatizado utilizando integração via webhooks com a API do WhatsApp para consultas e gerenciamento de informações. Desenvolvido com Python, Gunicorn e Twilio, com deploy na plataforma Render.
 
 ### 📅 Sistema de Agendamento
+Aplicação web para cadastro e gerenciamento de agendamentos, com foco em arquitetura limpa e operações de banco de dados eficientes (CRUD).
 
-Aplicação web para gerenciamento de agendamentos com armazenamento em banco de dados.
+### 🌐 Projetos Web Responsivos
+Sites e portfólios desenvolvidos com Angular, HTML, CSS, JavaScript e Bootstrap, aplicando normas técnicas de usabilidade (como ISO 9241 e 12119) para garantir a melhor interface ao usuário.
 
-### 🤖 Bot para WhatsApp
-
-Sistema automatizado para consultas e interação via WhatsApp utilizando APIs e banco de dados.
-
-### 🌐 Projetos de Redes
-
-Implementação de topologias, cabeamento estruturado e documentação técnica de redes.
-
-### 💻 Aplicações Web
-
-Projetos responsivos utilizando HTML, CSS, JavaScript e Bootstrap.
+### 🖧 Projetos de Redes
+Implementação de topologias, documentação técnica e execução de cabeamento estruturado.
 
 ---
 
-### 📊 Estatísticas
+## 🎯 Atualmente Estudando
+- [x] Java & JDK
+- [x] Python
+- [x] Banco de Dados
+- [x] APIs REST
+- [x] Desenvolvimento Web 
+- [x] Redes de Computadores
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabryel-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-rodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🏆 Conquistas
+- 🎓 Graduando em Engenharia de Computação
+- 💻 Desenvolvimento prático de projetos Full Stack
+- 🌐 Experiência sólida com aplicações web responsivas e Componentização
+- 🖧 Conhecimentos práticos em infraestrutura de redes
+- 🔄 Controle de versão com Git e GitHub
 
-</p>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+---
 
 ## 📫 Contato
+📧 **E-mail:** [gabryelrodrigues230@gmail.com](mailto:gabryelrodrigues230@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/gabryel-rodrigues-](https://www.linkedin.com/in/gabryel-rodrigues-)  
 
-* GitHub: https://github.com/gabryel-rodrigues
-* LinkedIn: https://www.linkedin.com/in/gabryel-rodrigues-
+<br>
 
-> "Transformando ideias em soluções através da tecnologia."
+> 💡 *"Transformando ideias em soluções através da tecnologia."*
