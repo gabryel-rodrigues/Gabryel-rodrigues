@@ -81,8 +81,7 @@ Projetos responsivos utilizando HTML, CSS, JavaScript e Bootstrap.
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryel-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryel-rodrigues&show_icons=true)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-rodrigues&theme=tokyonight&layout=compact&langs_count=8"/>
 </p>
